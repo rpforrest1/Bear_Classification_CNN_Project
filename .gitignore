@@ -1,0 +1,8 @@
+bears/*
+bears_raw/*
+*.json
+*.ipynb_checkpoints
+__pycache__
+.DS_Store
+model_checkpoints*
+*.log
